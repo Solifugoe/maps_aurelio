@@ -1,5 +1,5 @@
 # Vite + React | Google Map Markers
-![image](/src/assets/map.png)
-![image](/src/assets/cine.png)
-![image](/src/assets/biblioteca.png)
+![image](/src/images/map.png)
+![image](/src/images/cine.png)
+![image](/src/images/biblioteca.png)
 
